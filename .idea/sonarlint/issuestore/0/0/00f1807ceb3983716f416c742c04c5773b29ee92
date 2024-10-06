@@ -1,0 +1,11 @@
+
+
+java:S1319"qThe return type of this method should be an interface such as "List" rather than the implementation "LinkedList".(‹÷ğ8ÿÈèæ¥2
+p
+java:S1450"TRemove the "image" field and declare it as a local variable in the relevant methods.(Ü¤8ûœÊæ¥2
+G	java:S106'"+Replace this use of System.out by a logger.(î……û8€Êæ¥2
+G	java:S106("+Replace this use of System.out by a logger.(ÔÛïÒ8Êæ¥2
+F	java:S106)"+Replace this use of System.out by a logger.(²ÏË8Êæ¥2
+L	java:S106,"+Replace this use of System.out by a logger.(¬ĞË‹ùÿÿÿÿ8ƒÊæ¥2
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8†Êæ¥2

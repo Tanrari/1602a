@@ -1,0 +1,6 @@
+
+L	java:S106'"+Replace this use of System.out by a logger.(¬ÐË‹ùÿÿÿÿ8×É‰ê¥2
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8ØÎúë¥2
+R
+java:S1068"0Remove this unused "sectorWeight" private field.(ÆèµÛýÿÿÿÿ8Âþˆê¥2

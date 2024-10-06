@@ -1,0 +1,8 @@
+
+
+java:S1319"qThe return type of this method should be an interface such as "List" rather than the implementation "LinkedList".(ºğ÷`8ìÀ¿ì¥2
+G	java:S106-"+Replace this use of System.out by a logger.(î……û8•Á¿ì¥2
+G	java:S106."+Replace this use of System.out by a logger.(ÔÛïÒ8•Á¿ì¥2
+L	java:S106/"+Replace this use of System.out by a logger.(ÁÙÉŞúÿÿÿÿ8•Á¿ì¥2
+F	java:S1060"+Replace this use of System.out by a logger.(²ÏË8•Á¿ì¥2
+L	java:S1063"+Replace this use of System.out by a logger.(¬ĞË‹ùÿÿÿÿ8–Á¿ì¥2
